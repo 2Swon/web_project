@@ -3,7 +3,7 @@ frontend/backend 프로젝트들입니다.
 
 # 1. howLOLwell
 팀프로젝트. 롤 초보자를 위한 공략법을 모은 홈페이지입니다. 
-'\n'조원을 맡았고 웹페이지 구현 및 자료수집을 하였습니다.
+<br>조원을 맡았고 웹페이지 구현 및 자료수집을 하였습니다.
 '\n'(html, css 사용)
 '\n'url : http://2SWON.github.io/2Swon/web_practice/howLOLwell/
 # 2. php_board
