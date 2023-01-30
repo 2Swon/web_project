@@ -4,13 +4,13 @@
 # 메뉴구성도
 <br>
 <img src="https://github.com/2Swon/web_practice/blob/main/php_board/img/1.png" alt="1" style="max-width: 100%;">
-# 화면구성
+# 화면 구성
 <br>
 <img src="https://github.com/2Swon/web_practice/blob/main/php_board/img/2.png" alt="2" style="max-width: 100%;">
 <br>
 <img src="https://github.com/2Swon/web_practice/blob/main/php_board/img/3.png" alt="3" style="max-width: 100%;">
 <br>
 <img src="https://github.com/2Swon/web_practice/blob/main/php_board/img/4.png" alt="4" style="max-width: 100%;">
-# 데이터베이스 구축
+# DB 구축
 <br>
 <img src="https://github.com/2Swon/web_practice/blob/main/php_board/img/5.png" alt="5" style="max-width: 100%;">
