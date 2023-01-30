@@ -25,7 +25,7 @@
 </thead>
     <?php
     $sql = "select * from MEMBER order by MEMBER_ID"; 
-    $result = mysqli_query($db, $sql);  
+    $result = mysqli_query($db,$sql);  
 	            while($member = mysqli_fetch_array($result)){      
         ?>
         <tbody>
